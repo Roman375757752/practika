@@ -1,0 +1,5 @@
+﻿  pract.1.cpp
+C:\Users\Roman\source\repos\pract.1\pract.1.cpp(14,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Roman\source\repos\pract.1\pract.1.cpp(106,25): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Roman\source\repos\pract.1\pract.1.cpp(140,31): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+  pract.1.vcxproj -> C:\Users\Roman\source\repos\pract.1\x64\Debug\pract.1.exe
